@@ -1,2 +1,2 @@
-# Java-Script
-A code repo for Java Script
+# JavaScript
+A code repo for JavaScript
